@@ -1,0 +1,8 @@
+{
+	"resave":true,
+	"saveUninitialized":false,
+	"secret": "default secret, change this value", 
+	"cookie": {
+		"maxAge": 900000 
+    }
+}

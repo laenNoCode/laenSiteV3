@@ -1,0 +1,14 @@
+[{
+    "title":"Bienvenue sur mon blog",
+    "short":"ceci est le premier post",
+    "long":[  "ceci est le premier post, je vais probablement en faire d'autres, mais je ne sais pas encore quand. ",
+              "Les posts sont trop longs a écrire en une ligne, donc je le fais en plusieurs. ",
+              "Mais on n'est pas censé le voir"]},
+  {
+    "title":"deuxième post",
+    "short":"ceci est le deuxième post",
+    "long":[  "ceci est le premier post, je vais probablement en faire d'autres, mais je ne sais pas encore quand. ",
+              "Les posts sont trop longs a écrire en une ligne, donc je le fais en plusieurs. ",
+              "Mais on n'est pas censé le voir"]
+    }
+]
