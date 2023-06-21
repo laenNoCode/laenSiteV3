@@ -17,7 +17,7 @@
     "crypto": "^1.0.1",
     "express": "^4.16.4",
     "express-session": "^1.17.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
